@@ -34,3 +34,6 @@ Requisitos:
 Por ejemplo:
 "gato" => "gaitober"
 gaitober" => "gato"
+
+
+Link a la pagina desplegada: https://vaniaramirezromero.github.io/encriptador-de-texto-alura/
